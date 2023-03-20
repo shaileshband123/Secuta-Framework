@@ -1,0 +1,11 @@
+[Service-1] 06/Feb/2023 03:12:27 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0] 06/Feb/2023 03:12:36 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-1] 06/Feb/2023 03:12:36 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** Add Instructions ****
+[Service-0] 06/Feb/2023 03:12:36 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[Service-0] 06/Feb/2023 03:12:36 PM INFO  [     CucumberHooks.java] -> Couldn't capture screenshot
+[Service-0] 06/Feb/2023 03:12:36 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-0] 06/Feb/2023 03:12:36 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]
+[Service-1] 06/Feb/2023 03:13:10 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[Service-1] 06/Feb/2023 03:13:10 PM INFO  [     CucumberHooks.java] -> Couldn't capture screenshot
+[Service-1] 06/Feb/2023 03:13:10 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** Add Instructions ****
+[Service-1] 06/Feb/2023 03:13:10 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]

@@ -1,0 +1,21 @@
+[Service-0] 07/Feb/2023 03:45:35 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0] 07/Feb/2023 03:45:45 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-1] 07/Feb/2023 03:45:45 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** Add Instructions ****
+[Service-1] 07/Feb/2023 03:46:19 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-1] 07/Feb/2023 03:46:20 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[Service-1] 07/Feb/2023 03:46:20 PM INFO  [     CucumberHooks.java] -> Couldn't capture screenshot
+[Service-1] 07/Feb/2023 03:46:20 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** Add Instructions ****
+[Service-1] 07/Feb/2023 03:46:20 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]
+[Service-0] 07/Feb/2023 03:46:32 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-1] 07/Feb/2023 03:46:32 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** Add Instructions ****
+[Service-0] 07/Feb/2023 03:47:02 PM INFO  [   UnityWebElement.java] -> Entering text : namrata.mehta
+[Service-0] 07/Feb/2023 03:47:02 PM INFO  [   UnityWebElement.java] -> Entering text : Admin@123
+[Service-0] 07/Feb/2023 03:47:03 PM INFO  [   UnityWebElement.java] -> Clicking on Log In
+[Service-1] 07/Feb/2023 03:47:06 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[Service-1] 07/Feb/2023 03:47:09 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** Add Instructions ****
+[Service-1] 07/Feb/2023 03:47:09 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]
+[Service-0] 07/Feb/2023 03:47:44 PM INFO  [   UnityWebElement.java] -> Clicking on YEAR END DATA COLLECTION
+[Service-0] 07/Feb/2023 03:47:59 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[Service-0] 07/Feb/2023 03:47:59 PM INFO  [     CucumberHooks.java] -> Couldn't capture screenshot
+[Service-0] 07/Feb/2023 03:47:59 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-0] 07/Feb/2023 03:47:59 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]

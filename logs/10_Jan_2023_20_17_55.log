@@ -1,0 +1,7 @@
+[Service-0] 10/Jan/2023 05:05:46 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0] 10/Jan/2023 05:05:55 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-0] 10/Jan/2023 05:06:15 PM INFO  [   UnityWebElement.java] -> Entering text : oper1.unity
+[Service-0] 10/Jan/2023 05:06:16 PM INFO  [   UnityWebElement.java] -> Entering text : Password1#
+[Service-0] 10/Jan/2023 05:06:16 PM INFO  [   UnityWebElement.java] -> Clicking on Sign In
+[Service-0] 10/Jan/2023 05:08:15 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-0] 10/Jan/2023 05:08:15 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]

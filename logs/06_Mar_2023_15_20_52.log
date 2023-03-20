@@ -1,0 +1,5 @@
+[     main] 06/Mar/2023 03:19:30 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[     main] 06/Mar/2023 03:19:37 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[     main] 06/Mar/2023 03:20:01 PM INFO  [   UnityWebElement.java] -> Entering text : namrata.mehta
+[     main] 06/Mar/2023 03:20:02 PM INFO  [   UnityWebElement.java] -> Entering text : Admin@123
+[     main] 06/Mar/2023 03:20:02 PM INFO  [   UnityWebElement.java] -> Clicking on Log In

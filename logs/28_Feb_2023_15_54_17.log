@@ -1,0 +1,16 @@
+[     main] 28/Feb/2023 03:42:26 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[     main] 28/Feb/2023 03:42:32 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[     main] 28/Feb/2023 03:43:40 PM INFO  [   UnityWebElement.java] -> Entering text : namrata.mehta
+[     main] 28/Feb/2023 03:43:40 PM INFO  [   UnityWebElement.java] -> Entering text : Admin@123
+[     main] 28/Feb/2023 03:43:41 PM INFO  [   UnityWebElement.java] -> Clicking on Log In
+[     main] 28/Feb/2023 03:44:40 PM INFO  [   UnityWebElement.java] -> Clicking on YEAR END DATA COLLECTION
+[     main] 28/Feb/2023 03:46:54 PM INFO  [   UnityWebElement.java] -> Clicking on Setup
+[     main] 28/Feb/2023 03:47:01 PM INFO  [   UnityWebElement.java] -> Clicking on Instructions
+[     main] 28/Feb/2023 03:47:21 PM INFO  [   UnityWebElement.java] -> Clicking on Add
+[     main] 28/Feb/2023 03:47:23 PM INFO  [   UnityWebElement.java] -> Entering text : Text
+[     main] 28/Feb/2023 03:47:30 PM INFO  [   UnityWebElement.java] -> Clicking on Setup
+[     main] 28/Feb/2023 03:47:52 PM INFO  [   UnityWebElement.java] -> Clicking on Add
+[     main] 28/Feb/2023 03:48:24 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[     main] 28/Feb/2023 03:48:24 PM INFO  [     CucumberHooks.java] -> Couldn't capture screenshot
+[     main] 28/Feb/2023 03:48:24 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[     main] 28/Feb/2023 03:48:24 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]

@@ -1,0 +1,7 @@
+[Service-0] 11/Jan/2023 05:03:55 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[Service-0] 11/Jan/2023 05:04:01 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[Service-0] 11/Jan/2023 05:04:26 PM INFO  [   UnityWebElement.java] -> Entering text : namrata.mehta
+[Service-0] 11/Jan/2023 05:04:26 PM INFO  [   UnityWebElement.java] -> Entering text : Admin@123
+[Service-0] 11/Jan/2023 05:04:26 PM INFO  [   UnityWebElement.java] -> Clicking on Log In
+[Service-0] 11/Jan/2023 05:04:31 PM INFO  [   UnityWebElement.java] -> Clicking on YEAR END DATA COLLECTION
+[Service-0] 11/Jan/2023 05:04:35 PM INFO  [   UnityWebElement.java] -> Click using JS on YEAR END DATA COLLECTION

@@ -1,0 +1,5 @@
+[     main] 22/Feb/2023 12:01:15 PM INFO  [   ChromeWebDriver.java] -> [ Initializing chrome driver ]
+[     main] 22/Feb/2023 12:01:21 PM INFO  [     CucumberHooks.java] -> Started execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[     main] 22/Feb/2023 12:03:17 PM INFO  [     CucumberHooks.java] -> Scenario Failed... Taking screenshot
+[     main] 22/Feb/2023 12:03:21 PM INFO  [     CucumberHooks.java] -> Finished execution of scenario : > **** 33844040|Sanity Test QC191 ****
+[     main] 22/Feb/2023 12:03:21 PM INFO  [     CucumberHooks.java] -> [ Closing driver ]
