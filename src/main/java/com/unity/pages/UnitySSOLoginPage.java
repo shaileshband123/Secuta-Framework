@@ -48,9 +48,7 @@ public class UnitySSOLoginPage extends BaseTestPage {
 
 	public void loginWithOperator1() 
 	{
-		Utilities.wait(3000);
-		textBoxUserID.sendKeys("namrata.mehta");
-		textBoxPassword.sendKeys("Admin@123");
+		Utilities.wait(3000);		
 		buttonSignIn.click();
 		selectYEDC.click();
 		
